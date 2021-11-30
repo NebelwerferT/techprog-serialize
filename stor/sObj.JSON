@@ -1,0 +1,54 @@
+{
+  "Creature": [
+    {
+      "className": "Hero",
+      "obj": {
+        "_name": "Horus",
+        "_hp": 10,
+        "_mana": 10,
+        "_target": 0,
+        "_money": 0,
+        "_equipment": "Knight armor",
+        "_location": "village",
+        "_main_ability_name": "Сhopping blow",
+        "_main_ability_modifier": 0
+      }
+    },
+    {
+      "className": "Enemy",
+      "obj": {
+        "_name": "Dagon",
+        "_hp": 8,
+        "_mana": 10,
+        "_target": 5,
+        "_money": 0,
+        "_equipment": "Mantle",
+        "_location": "town"
+      }
+    },
+    {
+      "className": "Enemy",
+      "obj": {
+        "_name": "Dagon2",
+        "_hp": 8,
+        "_mana": 10,
+        "_target": 5,
+        "_money": 0,
+        "_equipment": "55",
+        "_location": "town"
+      }
+    },
+    {
+      "className": "Enemy",
+      "obj": {
+        "_name": "Dagon3",
+        "_hp": 8,
+        "_mana": 10,
+        "_target": 5,
+        "_money": 0,
+        "_equipment": "75",
+        "_location": "town"
+      }
+    }
+  ]
+}
